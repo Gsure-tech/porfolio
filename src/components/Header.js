@@ -11,7 +11,7 @@ const Header = () => {
         <div className="flex justify-between items-center">
         
           {/* logo */}
-          <a href="#">
+          <a href="contact.js">
             <img className="gsureLogo" src={gsure} alt="" />
           </a>
           <button className="btn btn-sm"> Work with me</button>
