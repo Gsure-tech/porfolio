@@ -1,7 +1,13 @@
 import React from 'react';
 
 import {BiHomeAlt, BiUser} from 'react-icons/bi';
-import {BsClipboardData, BsBriefcase, BsChatSquare, BsChatSquareText} from 'react-icons/bs';
+import {BsClipboardData, BsBriefcase, BsChatSquareText} from 'react-icons/bs';
+// import {
+//   BsClipboardData,
+//   BsBriefcase,
+//   BsChatSquare,
+//   BsChatSquareText,
+// } from "react-icons/bs";
 
  import { Link } from 'react-scroll';
 
