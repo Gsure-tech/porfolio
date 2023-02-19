@@ -4,9 +4,10 @@ import CountUp from "react-countup";
 // Intersection  observer
 import { useInView } from "react-intersection-observer";
 //motion
-import { motion } from "framer-motion";
-//variant
-import { fadeIn } from "../variants";
+
+// import { motion } from "framer-motion";
+// //variant
+// import { fadeIn } from "../variants";
 
 const About = () => {
   const [ref, InView] = useInView({
